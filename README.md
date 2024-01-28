@@ -8,7 +8,7 @@ As a passionate coder, I find great joy and satisfaction in continuously improvi
 
 * ``` .Net Core ``` | ``` EF ``` | ``` EF Core ``` | ``` Dapper ```
 * ```Microservices ``` | ``` Elastic Search ``` | ``` Ocelot ```
-* ``` MSSQL ``` | ``` Mongo ```
+* ``` MSSQL ``` | ``` Mongo ``` | ``` Redis ```
 * ``` RabbitMQ ```
 * ``` Windows Forms ``` | ``` .Net MVC ```
 
